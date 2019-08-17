@@ -1,2 +1,2 @@
-kuriwaki.github.io
+This repository stores my personal website
 ==================
