@@ -39,7 +39,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:22px;
 }
 
 h2 {
@@ -270,4 +270,24 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+
+
+header h1 {
+  margin-bottom: 5px;
+  padding-top: 25px;
+}
+
+section h3 {
+  margin-top: 0;
+  padding-top: 0px;
+}
+
+a i {
+  display: inline-block;
+  font-size: 24px;
+  margin-right: 10px;
+  margin-top: 10px;
+  color: #3498db;
 }
